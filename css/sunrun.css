@@ -6784,6 +6784,10 @@ p {
   line-height: 24px;
   color: #555555;
 }
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
 .external_notice {
   display: flex;
   border-bottom: 1px solid #E6E7E8;
@@ -6813,6 +6817,9 @@ p {
 .navbar {
   border: 0;
   margin: 0 auto;
+}
+.navbar-toggle {
+  float: right;
 }
 .nav > li > a {
   font-family: "DroidSans";
