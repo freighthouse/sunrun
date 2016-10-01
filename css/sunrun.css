@@ -6803,10 +6803,6 @@ p {
   padding-right: 5px;
   font-weight: 400;
 }
-.navbar-header {
-  float: none;
-  margin: 25px 50px;
-}
 .navbar-default .navbar-toggle {
   border: 0;
 }
@@ -6926,6 +6922,10 @@ p {
     width: 970px;
     padding-left: 0;
     padding-right: 0;
+  }
+  .navbar-header {
+    float: none;
+    margin: 25px 50px;
   }
   .sun_logo {
     float: right;
