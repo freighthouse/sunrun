@@ -6894,9 +6894,7 @@ p {
 .contact_div .row > div {
   margin: 25px auto 10px;
 }
-.contact_div .row > div .contact_phone {
-  display: none;
-}
+.contact_div .row > div .contact_phone,
 .contact_div .row > div .contact_text {
   display: inline-block;
   vertical-align: top;
@@ -6934,12 +6932,6 @@ p {
   }
   .sun_logo {
     float: right;
-  }
-  .contact_phone {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 5px;
-    padding-right: 5px;
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
