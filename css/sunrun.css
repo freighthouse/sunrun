@@ -6854,6 +6854,7 @@ p {
 .hero-unit-what > div > div {
   position: absolute;
   bottom: 35px;
+  padding-left: 30px;
 }
 .hero-unit-what h1 {
   font-size: 3rem;
