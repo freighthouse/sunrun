@@ -6820,6 +6820,11 @@ p {
 .navbar-toggle {
   float: right;
 }
+.navbar-collapse.in {
+  min-width: 100%;
+  border-bottom: 1px solid #eeeeee;
+  text-align: center;
+}
 .nav > li > a {
   font-family: "DroidSans";
   font-size: 1.3em;
