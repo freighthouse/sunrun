@@ -6903,6 +6903,9 @@ p {
   font-family: "DroidSans";
   font-size: 1.2em;
 }
+.contact_div .contact_phone {
+  display: none;
+}
 .footer_div {
   margin: 25px auto;
   font-size: 16px;
@@ -6932,6 +6935,9 @@ p {
   }
   .sun_logo {
     float: right;
+  }
+  .contact_phone {
+    display: inline-block;
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
