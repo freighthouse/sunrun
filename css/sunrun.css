@@ -6894,17 +6894,16 @@ p {
 .contact_div .row > div {
   margin: 25px auto 10px;
 }
-.contact_div .row > div > span,
-.contact_div .row > div span p {
+.contact_div .row > div .contact_phone {
+  display: none;
+}
+.contact_div .row > div .contact_text {
   display: inline-block;
   vertical-align: top;
   padding-left: 5px;
   padding-right: 5px;
   font-family: "DroidSans";
   font-size: 1.2em;
-}
-.contact_div .contact_phone {
-  display: none;
 }
 .footer_div {
   margin: 25px auto;
@@ -6938,6 +6937,9 @@ p {
   }
   .contact_phone {
     display: inline-block;
+    vertical-align: top;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
