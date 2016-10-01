@@ -6814,6 +6814,9 @@ p {
   border: 0;
   margin: 0 auto;
 }
+.navbar-header {
+  margin: 10px auto;
+}
 .navbar-toggle {
   float: right;
 }
