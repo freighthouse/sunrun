@@ -6832,6 +6832,9 @@ p {
   text-transform: uppercase;
   color: #4c4c4c !important;
 }
+.nav > li > a ::hover {
+  text-decoration: underline;
+}
 .navbar-nav > li > a {
   padding-top: 1.5em;
   padding-bottom: 0;
