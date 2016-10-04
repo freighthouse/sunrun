@@ -6822,6 +6822,9 @@ p {
 .navbar-header {
   margin: 10px auto;
 }
+.navbar-brand {
+  float: none;
+}
 .navbar-toggle {
   float: right;
 }
@@ -6978,9 +6981,6 @@ p {
   .navbar-header {
     float: none;
     margin: 25px 50px;
-  }
-  .navbar-brand {
-    float: none;
   }
   .costco_logo {
     float: right;
