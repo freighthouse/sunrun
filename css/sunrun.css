@@ -6785,6 +6785,7 @@ p {
   color: #555555;
 }
 .container {
+  width: 100%;
   padding-left: 0;
   padding-right: 0;
 }
