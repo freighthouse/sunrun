@@ -6927,6 +6927,19 @@ p {
   font-size: 16px;
   padding-bottom: 20px;
 }
+#watermark {
+  position: fixed;
+  opacity: 0.5;
+  z-index: 99;
+  color: #555555;
+  font-size: 24em;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
 @media (min-width: 768px) {
   .sunrun_container {
     width: 100%;
