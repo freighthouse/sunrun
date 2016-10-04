@@ -6979,6 +6979,9 @@ p {
     float: none;
     margin: 25px 50px;
   }
+  .navbar-brand {
+    float: none;
+  }
   .sun_logo {
     float: right;
   }
