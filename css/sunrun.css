@@ -6943,9 +6943,6 @@ p {
     padding-left: 0;
     padding-right: 0;
   }
-  .navbar .navbar-header {
-    margin: 25px auto;
-  }
 }
 @media (min-width: 992px) {
   .sunrun_container {
@@ -6965,7 +6962,7 @@ p {
     padding-left: 0;
     padding-right: 0;
   }
-  .navbar .navbar-header {
+  .navbar-header {
     float: none;
     margin: 25px 50px;
   }
