@@ -6938,6 +6938,8 @@ p {
   -ms-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);
+  line-height: 2.5em;
+  left: 1em;
 }
 @media (min-width: 768px) {
   .sunrun_container {
