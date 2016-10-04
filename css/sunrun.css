@@ -6832,12 +6832,13 @@ p {
   text-transform: uppercase;
   color: #4c4c4c !important;
 }
-.nav > li > a ::focus {
-  text-decoration: underline;
-}
 .navbar-nav > li > a {
   padding-top: 1.5em;
   padding-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  text-decoration: underline;
 }
 .hero-unit-front {
   background: rgba(0, 0, 0, 0) url('../images/home_hero@3x.png') no-repeat scroll center center / cover;
