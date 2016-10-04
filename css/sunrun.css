@@ -6898,9 +6898,6 @@ p {
   color: #00ade6;
   margin-bottom: 20px;
 }
-.contact_phone {
-  display: none;
-}
 .contact_div .row {
   background-color: #A1CDEB;
   margin: 0;
@@ -6916,6 +6913,9 @@ p {
   padding-right: 5px;
   font-family: "DroidSans";
   font-size: 1.2em;
+}
+.contact_div .row > div .contact_phone {
+  display: none;
 }
 .footer_div {
   margin: 25px auto;
