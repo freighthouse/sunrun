@@ -6929,14 +6929,14 @@ p {
 }
 #watermark {
   position: fixed;
-  opacity: 0.5;
+  opacity: 0.2;
   z-index: 99;
   color: #555555;
-  font-size: 24em;
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
+  font-size: 20em;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);
 }
 @media (min-width: 768px) {
