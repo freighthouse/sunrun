@@ -6832,7 +6832,7 @@ p {
   text-transform: uppercase;
   color: #4c4c4c !important;
 }
-.nav > li > a ::hover {
+.nav > li > a ::focus {
   text-decoration: underline;
 }
 .navbar-nav > li > a {
