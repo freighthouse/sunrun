@@ -6947,7 +6947,23 @@ p {
   .sun_logo {
     float: right;
   }
-  .contact_phone {
+  .contact_div .row {
+    background-color: #A1CDEB;
+    margin: 0;
+  }
+  .contact_div .row > div {
+    margin: 25px auto 10px;
+  }
+  .contact_div .row > div > span,
+  .contact_div .row > div span p {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: "DroidSans";
+    font-size: 1.2em;
+  }
+  .contact_div .row > div .contact_phone {
     display: inline-block;
     vertical-align: top;
     padding-left: 5px;
