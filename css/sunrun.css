@@ -6803,6 +6803,9 @@ p {
   padding-right: 5px;
   font-weight: 400;
 }
+.external_notice > div .external_alert_icon {
+  display: none;
+}
 .navbar-default .navbar-toggle {
   border: 0;
 }
@@ -6946,6 +6949,27 @@ p {
   }
   .sun_logo {
     float: right;
+  }
+  .external_notice {
+    display: flex;
+    border-bottom: 1px solid #E6E7E8;
+  }
+  .external_notice > div {
+    margin: 10px auto;
+  }
+  .external_notice > div > span,
+  .external_notice > div span h6 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 400;
+  }
+  .external_notice > div .external_alert_icon {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   .contact_div .row {
     background-color: #A1CDEB;
