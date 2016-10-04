@@ -6928,7 +6928,7 @@ p {
   padding-bottom: 20px;
 }
 #watermark {
-  position: fixed;
+  position: absolute;
   opacity: 0.2;
   z-index: 99;
   color: #555555;
@@ -6939,7 +6939,6 @@ p {
   -o-transform: rotate(-45deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);
   line-height: 2.5em;
-  left: 1em;
 }
 @media (min-width: 768px) {
   .sunrun_container {
