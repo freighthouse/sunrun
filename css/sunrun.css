@@ -6945,7 +6945,7 @@ p {
 }
 .iframe_div .sunrun_iframe {
   min-width: 100%;
-  height: auto;
+  height: 500px;
   padding-bottom: 67%;
 }
 @media (min-width: 768px) {
