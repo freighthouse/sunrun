@@ -6836,7 +6836,7 @@ p {
 }
 .nav > li > a {
   font-family: "DroidSans";
-  font-size: 1.3em;
+  font-size: 1.4em;
   text-transform: uppercase;
   color: #4c4c4c !important;
 }
@@ -6900,11 +6900,20 @@ p {
   background-color: #FFF;
   margin-left: 0;
   margin-right: 0;
-  padding-bottom: 2em;
+  padding-bottom: 5em;
 }
 .sunrun_body h2 {
   color: #00ade6;
-  margin-bottom: 20px;
+  margin: 2em auto 1em;
+}
+.sunrun_body p,
+.sunrun_body li {
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+.sunrun_disclaimer {
+  margin-top: 5em;
 }
 .contact_div .row {
   background-color: #A1CDEB;
