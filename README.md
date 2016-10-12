@@ -1,4 +1,6 @@
-# Costco microsite for www.Sunrun.com
-#### Author: Jeremy Michael Cerda 
+# Costco microsite
+###www.Sunrun.com
+
+Author: Jeremy Michael Cerda 
 http://www.freighthouse.io
 
