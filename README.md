@@ -1,6 +1,5 @@
 # Costco microsite for Sunrun.
-### Author: Jeremy Michael Cerda @freighthouse
-####www.freighthouse.io
-
-http://www.sunrun.com
+###http://www.sunrun.com
+#### Author: Jeremy Michael Cerda 
+######http://www.freighthouse.io
 
