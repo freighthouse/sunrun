@@ -6907,7 +6907,8 @@ p {
   margin: 2em auto 1em;
 }
 .sunrun_body p,
-.sunrun_body li {
+.sunrun_body li,
+.sunrun_body address {
   font-size: 15px;
   font-weight: 300;
   letter-spacing: 1px;
